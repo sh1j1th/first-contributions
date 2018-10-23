@@ -161,6 +161,7 @@ Arnel Forbes
 - [Rappelsen](https://github.com/rappelsen)
 - [Persephone](https://github.com/persephpom/)
 - [Fadel Pamungkas](https://github.com/fadelpamungkas)
+- [Shijith K](https://github.com/sh1j1th)
 - [Yoad Wolfsthal](https://github.com/yoadwo)
 - [Brian Barry](https://github.com/bribarry)
 - [Dan Rodrigues](https://github.com/DannyRodrigues)
